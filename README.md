@@ -1,14 +1,18 @@
 # 50.005 -- Computational Data Science
 
 ## Lab 1 
-1. 
-2. 
-3. 
+### Data handling
+Prof. Dorien Herremans  
+1. Basic commands on unix
+2. Scrapping with beautiful soup
 
 ## Lab 2
-1.
-2.
-3. 
+### Big data / Hadoop & MapReduce
+Prof. Dorien Herremans  
+1. Hadoop filesystem commands
+2. Map reduce
+3. Coding map reduce for different task
+
 ## Lab 3
 ### Classification using Weka & Scikit-learn
 Prof. K.H.Lim
