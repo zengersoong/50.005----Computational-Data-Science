@@ -25,5 +25,5 @@ Using Twitter datasets for sentiment labelling. 4=positive and 0 = negative
 1. Machine learning through sklearn . 
 2. Data preprocessing and classification . 
 3. Using different feature selections to optimise the classifer/ improve results (top - k Features, kNearestNeighbours, top-k percentile) . 
-4. Using Weka with package, "Time Series Forecasting" . 
+4. Using Weka with package, "Time Series Forecasting" . (Only screenshots, in weka pdf)
 5. Evaluate linear regression with / without attribute(feature) selection.  
