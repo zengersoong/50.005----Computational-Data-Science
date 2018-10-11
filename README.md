@@ -23,14 +23,14 @@ Prof. K.H.Lim
 
 ## Lab 4
 ### Data visualisation in python
-Prof. Dorien Herremans
+Prof. Dorien Herremans  
 Using python pandas, as well as matplotlib to visualise data
 1. Python pandas dataframes
 2. Matplotlib library functions and plots
 3. Histograms, bar charts, line plots , box plots , scatterplots
 ## Lab 5
 ### Feature Selection and Time Series
-Prof. K.H.Lim
+Prof. K.H.Lim   
 Using Sklearn machine learning library for data pre-processing, classification, clustering . 
 Using Twitter datasets for sentiment labelling. 4=positive and 0 = negative
 
