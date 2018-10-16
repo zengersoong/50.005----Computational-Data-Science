@@ -2,20 +2,20 @@
 
 ## Lab 1 
 ### Data handling
-Prof. Dorien Herremans  
+Instructor(s): Prof. Dorien Herremans  
 1. Basic commands on unix
 2. Scrapping with beautiful soup
 
 ## Lab 2
 ### Big data / Hadoop & MapReduce
-Prof. Dorien Herremans  
+Instructor(s): Prof. Dorien Herremans  
 1. Hadoop filesystem commands
 2. Map reduce
 3. Coding map reduce for different task
 
 ## Lab 3
 ### Classification using Weka & Scikit-learn
-Prof. K.H.Lim
+Instructor(s): Prof. K.H.Lim
 1. Weka, diabetes. training and testing classifiers
 2. Randomtree and randomforest classifiers
 3. Twitter sentiment datasets with scikit-learn
@@ -27,14 +27,14 @@ Prof. K.H.Lim
 
 ## Lab 4
 ### Data visualisation in python
-Prof. Dorien Herremans  
+Instructor(s): Prof. Dorien Herremans  
 Using python pandas, as well as matplotlib to visualise data
 1. Python pandas dataframes
 2. Matplotlib library functions and plots
 3. Histograms, bar charts, line plots , box plots , scatterplots
 ## Lab 5
 ### Feature Selection and Time Series
-Prof. K.H.Lim   
+Instructor(s): Prof. K.H.Lim   
 Using Sklearn machine learning library for data pre-processing, classification, clustering . 
 Using Twitter datasets for sentiment labelling. 4=positive and 0 = negative
 
