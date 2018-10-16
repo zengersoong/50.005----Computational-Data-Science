@@ -1,4 +1,4 @@
-# 50.005 -- Computational Data Science
+# 50.038 -- Computational Data Science
 
 ## Lab 1 
 ### Data handling
