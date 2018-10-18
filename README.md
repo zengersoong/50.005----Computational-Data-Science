@@ -60,5 +60,5 @@ Using Weka to explore the idea of data pre-processing, as well as using Associat
 5. Assocation rules are ranked by their associated confidence score
 #### Clustering
 1. Using K-means with and without normalisation
-2. Observing the effects of the SSE values (Normalized vs non-normalized)
+2. Observing the effects on the SSE values (Normalized vs non-normalized)
 
