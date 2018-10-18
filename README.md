@@ -43,3 +43,22 @@ Using Twitter datasets for sentiment labelling. 4=positive and 0 = negative
 3. Using different feature selections to optimise the classifer/ improve results (top - k Features, kNearestNeighbours, top-k percentile) . 
 4. Using Weka with package, "Time Series Forecasting" . (Only screenshots, in weka pdf)
 5. Evaluate linear regression with / without attribute(feature) selection.  
+
+## Lab 6
+### Feature Selection and Time Series
+Instructor(s): Prof. K.H.Lim   
+Using Weka to explore the idea of data pre-processing, as well as using Association Rule Mining.  
+#### Data Sets used are :  
+1. credig-g.arff dataset
+2. supermarket.arff
+3. iris.arff
+#### Association Rule Mining/Preprocessing
+1. Using unsupervised discretizer to filter the attributes
+2. Using Weka's Apriori algorithm for association rule Mining
+3. Identifying the features
+4. Apply minimum support threshold and identifying top 10 association rules
+5. Assocation rules are ranked by their associated confidence score
+#### Clustering
+1. Using K-means with and without normalisation
+2. Observing the effects of the SSE values (Normalized vs non-normalized)
+
