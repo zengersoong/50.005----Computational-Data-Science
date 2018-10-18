@@ -49,7 +49,7 @@ Using Twitter datasets for sentiment labelling. 4=positive and 0 = negative
 Instructor(s): Prof. K.H.Lim   
 Using Weka to explore the idea of data pre-processing, as well as using Association Rule Mining.  
 #### Data Sets used are :  
-1. credig-g.arff dataset
+1. credit-g.arff dataset
 2. supermarket.arff
 3. iris.arff
 #### Association Rule Mining/Preprocessing
