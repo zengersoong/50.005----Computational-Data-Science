@@ -26,7 +26,7 @@ Instructor(s): Prof. K.H.Lim
 8. Enhance the model by experimenting with bi-grams and tri-grams
 
 ## Lab 4
-### Data visualisation in python
+### Data visualisation in Python
 Instructor(s): Prof. Dorien Herremans  
 Using python pandas, as well as matplotlib to visualise data
 1. Python pandas dataframes
