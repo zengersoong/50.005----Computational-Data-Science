@@ -63,10 +63,10 @@ Using Weka to explore the idea of data pre-processing, as well as using Associat
 2. Observing the effects on the SSE values (Normalized vs non-normalized)
 
 ## Lab 9
-### Feature Selection and Time Series
+### Multiple-layer Perceptron
 Instructor(s): Prof. K.H.Lim   
-a. Using Keras to work on Multi-layer perceptron for Number Recognition
-b. Using Keras to work on Multi-layer perception for Text Classifcation
+a. Multi-layer Perception for image classifcation
+b. Multi-layer Perception for text classifcation
 #### Data Sets used are :  
 1. MNIST dataset
 2. Reuters news article Dataset
