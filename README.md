@@ -62,3 +62,29 @@ Using Weka to explore the idea of data pre-processing, as well as using Associat
 1. Using K-means with and without normalisation
 2. Observing the effects on the SSE values (Normalized vs non-normalized)
 
+## Lab 9
+### Feature Selection and Time Series
+Instructor(s): Prof. K.H.Lim   
+a. Using Keras to work on Multi-layer perceptron for Number Recognition
+b. Using Keras to work on Multi-layer perception for Text Classifcation
+#### Data Sets used are :  
+1. MNIST dataset
+2. Reuters news article Dataset
+#### Data preprocessing (a)
+1. Reshaping the data from 2D to 1D.
+2. Cinverting to Float data type
+3. Divide by 255 for pixel-shader value this normalizes to between 0-1.
+4. Split the data to training set and testing set.
+#### Neural Network model (a)
+1. Set number of nodes as as well as hidden layers
+2. Set input shape ( Number of features)
+3. Adding a random dropout to avoid over-reliance on particular nodes.
+#### Neural Network compile (a)
+1. Loss = categorical crossentropy
+2. Optimizer set to using adam
+3. Metrics set to 'accuracy'
+#### Fitting model to training set (a)
+1. Setting Batch size (mini-batch training)
+2. Set number of epoch(1 EPOCH = 1 forward propagation + 1 backward propagation)
+3. Print the score of the accuracy of the model by evaluating with test set
+4. Done
