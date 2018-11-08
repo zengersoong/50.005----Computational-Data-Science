@@ -65,7 +65,7 @@ Using Weka to explore the idea of data pre-processing, as well as using Associat
 ## Lab 9
 ### Multiple-layer Perceptron
 Instructor(s): Prof. K.H.Lim   
-a. Multi-layer Perception for image classifcation
+a. Multi-layer Perception for image classifcation  
 b. Multi-layer Perception for text classifcation
 #### Data Sets used are :  
 1. MNIST dataset
