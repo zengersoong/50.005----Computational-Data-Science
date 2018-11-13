@@ -91,6 +91,6 @@ b. Multi-layer Perception for text classifcation
 
 ## Lab 10
 ### Word2Vec
-Instructor(s): Prof. Dorien Herremans
-a. Training word2Vec from scratch
-b. Classification with word2Vec
+Instructor(s): Prof. Dorien Herremans  
+a. Training word2Vec from scratch  
+b. Classification with word2Vec  
