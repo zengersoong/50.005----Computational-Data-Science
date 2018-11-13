@@ -88,3 +88,9 @@ b. Multi-layer Perception for text classifcation
 2. Set number of epoch(1 EPOCH = 1 forward propagation + 1 backward propagation)
 3. Print the score of the accuracy of the model by evaluating with test set
 4. Done
+
+## Lab 10
+### Word2Vec
+Instructor(s): Prof. Dorien Herremans
+a. Training word2Vec from scratch
+b. Classification with word2Vec
