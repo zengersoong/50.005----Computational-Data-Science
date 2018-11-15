@@ -93,4 +93,7 @@ b. Multi-layer Perception for text classifcation
 ### Word2Vec
 Instructor(s): Prof. Dorien Herremans  
 a. Training word2Vec from scratch  
-b. Classification with word2Vec  
+b. Classification with word2Vec 
+#### Repository Prof. Dorien Herremans 
+1. https://github.com/dorienh/computational_data_science/blob/master/lab10a%20-%20word2vec:%20training%20a%20basic%20model%20from%20scratch.ipynb . 
+2. https://github.com/dorienh/computational_data_science/blob/master/lab10b%20-%20word2vec%20classification.ipynb
