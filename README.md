@@ -101,9 +101,9 @@ b. Classification with word2Vec
 # Lab 12
 ### Recurrent Neural Networks for text classification
 Instructor(s): Prof. K.H.Lim  
-Date: 29/11/18
-a. Text Classification
-b. Generate Text
+Date: 29/11/18   
+a. Text Classification  
+b. Generate Text   
 
 # Text Classification
 1. Using either Simple RNN / LSTM / GRU model for the model to be trained on
