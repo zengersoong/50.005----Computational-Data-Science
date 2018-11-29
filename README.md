@@ -105,11 +105,11 @@ Date: 29/11/18
 a. Text Classification  
 b. Generate Text   
 
-# Text Classification
+#### Text Classification
 1. Using either Simple RNN / LSTM / GRU model for the model to be trained on
 2. Test the output against the actual for accuracy
 
-# Text Generation
+#### Text Generation
 1. Preprocessing
 2. Mapping characters to integer. Text generation will generate char by char
 3. Prepare datasets, using sequences of 50 char to generate 51st char
