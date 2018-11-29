@@ -97,3 +97,22 @@ b. Classification with word2Vec
 #### Repository Prof. Dorien Herremans 
 1. https://github.com/dorienh/computational_data_science/blob/master/lab10a%20-%20word2vec:%20training%20a%20basic%20model%20from%20scratch.ipynb . 
 2. https://github.com/dorienh/computational_data_science/blob/master/lab10b%20-%20word2vec%20classification.ipynb
+
+# Lab 12
+### Recurrent Neural Networks for text classification
+Instructor(s): Prof. K.H.Lim  
+Date: 29/11/18
+a. Text Classification
+b. Generate Text
+
+# Text Classification
+1. Using either Simple RNN / LSTM / GRU model for the model to be trained on
+2. Test the output against the actual for accuracy
+
+# Text Generation
+1. Preprocessing
+2. Mapping characters to integer. Text generation will generate char by char
+3. Prepare datasets, using sequences of 50 char to generate 51st char
+4. Construct LSTM model
+5. Generate a new text based on provided seed text.
+
