@@ -62,3 +62,57 @@ Using Weka to explore the idea of data pre-processing, as well as using Associat
 1. Using K-means with and without normalisation
 2. Observing the effects on the SSE values (Normalized vs non-normalized)
 
+## Lab 9
+### Multiple-layer Perceptron
+Instructor(s): Prof. K.H.Lim   
+a. Multi-layer Perception for image classifcation  
+b. Multi-layer Perception for text classifcation
+#### Data Sets used are :  
+1. MNIST dataset
+2. Reuters news article Dataset
+#### Data preprocessing (a)
+1. Reshaping the data from 2D to 1D.
+2. Cinverting to Float data type
+3. Divide by 255 for pixel-shader value this normalizes to between 0-1.
+4. Split the data to training set and testing set.
+#### Neural Network model (a)
+1. Set number of nodes as as well as hidden layers
+2. Set input shape ( Number of features)
+3. Adding a random dropout to avoid over-reliance on particular nodes.
+#### Neural Network compile (a)
+1. Loss = categorical crossentropy
+2. Optimizer set to using adam
+3. Metrics set to 'accuracy'
+#### Fitting model to training set (a)
+1. Setting Batch size (mini-batch training)
+2. Set number of epoch(1 EPOCH = 1 forward propagation + 1 backward propagation)
+3. Print the score of the accuracy of the model by evaluating with test set
+4. Done
+
+## Lab 10
+### Word2Vec
+Instructor(s): Prof. Dorien Herremans  
+a. Training word2Vec from scratch  
+b. Classification with word2Vec 
+#### Repository Prof. Dorien Herremans 
+1. https://github.com/dorienh/computational_data_science/blob/master/lab10a%20-%20word2vec:%20training%20a%20basic%20model%20from%20scratch.ipynb . 
+2. https://github.com/dorienh/computational_data_science/blob/master/lab10b%20-%20word2vec%20classification.ipynb
+
+# Lab 12
+### Recurrent Neural Networks for text classification
+Instructor(s): Prof. K.H.Lim  
+Date: 29/11/18   
+a. Text Classification  
+b. Generate Text   
+
+# Text Classification
+1. Using either Simple RNN / LSTM / GRU model for the model to be trained on
+2. Test the output against the actual for accuracy
+
+# Text Generation
+1. Preprocessing
+2. Mapping characters to integer. Text generation will generate char by char
+3. Prepare datasets, using sequences of 50 char to generate 51st char
+4. Construct LSTM model
+5. Generate a new text based on provided seed text.
+
